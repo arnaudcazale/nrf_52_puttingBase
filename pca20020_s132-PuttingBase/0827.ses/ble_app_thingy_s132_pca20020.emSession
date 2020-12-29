@@ -1,0 +1,85 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_thingy_s132_pca20020" radix="16" sizeText="0" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_thingy_s132_pca20020" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_thingy_s132_pca20020" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_thingy_s132_pca20020" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="ble_app_thingy_s132_pca20020"/>
+  <ProjectSessionItem path="ble_app_thingy_s132_pca20020;ble_app_thingy_s132_pca20020"/>
+  <ProjectSessionItem path="ble_app_thingy_s132_pca20020;ble_app_thingy_s132_pca20020;nRF_BLE"/>
+  <ProjectSessionItem path="ble_app_thingy_s132_pca20020;ble_app_thingy_s132_pca20020;nRF_Drivers"/>
+  <ProjectSessionItem path="ble_app_thingy_s132_pca20020;ble_app_thingy_s132_pca20020;nRF_Libraries"/>
+  <ProjectSessionItem path="ble_app_thingy_s132_pca20020;ble_app_thingy_s132_pca20020;nRF_SoftDevice"/>
+  <ProjectSessionItem path="ble_app_thingy_s132_pca20020;ble_app_thingy_s132_pca20020;SR3_Audio"/>
+  <ProjectSessionItem path="ble_app_thingy_s132_pca20020;ble_app_thingy_s132_pca20020;Thingy"/>
+  <ProjectSessionItem path="ble_app_thingy_s132_pca20020;ble_app_thingy_s132_pca20020;Thingy drivers"/>
+  <ProjectSessionItem path="ble_app_thingy_s132_pca20020;ble_app_thingy_s132_pca20020;Thingy_libraries"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_thingy_s132_pca20020" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_thingy_s132_pca20020" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_thingy_s132_pca20020" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_thingy_s132_pca20020" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never">
+   <Watchpoint expression="m_arg" name="m_arg" radix="-1" linenumber="138" filename="saadc.c"/>
+   <Watchpoint expression="m_command_packet" name="m_command_packet" radix="-1" linenumber="56" filename="command_Interpreter.h"/>
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="426" useTextEdit="1" useBinaryEdit="0" left="0" path="../main.c" selected="1" top="408" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1156" useTextEdit="1" useBinaryEdit="0" left="0" path="command_Interpreter.c" selected="0" top="1141" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="345" useTextEdit="1" useBinaryEdit="0" left="0" path="utils.c" selected="0" top="323" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="76" useTextEdit="1" useBinaryEdit="0" left="0" path="drv_ADG728.c" selected="0" top="65" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="61" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../source/modules/m_motion.c" selected="0" top="30" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="99" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../source/util/twi_manager.c" selected="0" top="84" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1008" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../source/modules/m_ble.c" selected="0" top="765" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="100" useTextEdit="1" useBinaryEdit="0" left="0" path="shield_manager.c" selected="0" top="97" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="38" useTextEdit="1" useBinaryEdit="0" left="0" path="drv_ADG728.h" selected="0" top="8" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="55" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../source/ble_services/ble_tms.c" selected="0" top="45" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../source/drivers/drv_mic.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="38" y="780" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../source/drivers/drv_motion.c" selected="0" top="756" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1639" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../libs/eMD6/core/driver/eMPL/inv_mpu.c" selected="0" top="1624" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="35" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../libs/eMD6/core/driver/eMPL/inv_mpu.h" selected="0" top="9" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="ble_app_thingy_s132_pca20020" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="debug_v1_0_0" sessionSettings="" debugSearchFileMap="../FastMathFunctions/arm_sin_f32.c&#xa;&#xa;../mpl/accel_auto_cal.c&#xa;&#xa;../mpl/compass_vec_cal.c&#xa;&#xa;../mpl/fast_no_motion.c&#xa;&#xa;../mpl/fusion_9axis.c&#xa;&#xa;../mpl/gyro_tc.c&#xa;&#xa;../mpl/heading_from_gyro.c&#xa;&#xa;../mpl/mag_disturb.c&#xa;&#xa;../mpl/quaternion_supervisor.c&#xa;&#xa;C:/eclipseWS/libmplmpu/mllite/ml_math_func.h&#xa;&#xa;C:/Nordic/SDK/Nordic-Thingy52-FW-XpertRide/project/pca20020_s132-PuttingBase/main.c&#xa;C:/Nordic/SDK/Nordic-Thingy52-FW-PuttingBase/project/pca20020_s132-PuttingBase/main.c&#xa;C:/Users/RAMS.NVLSI/repos/nfcLibNew/private/nfc_t2t_lib/nfc_t2t_lib.c&#xa;" fileDialogInitialDirectory="C:/Nordic/SDK/Nordic-Thingy52-FW-PuttingBase/project/pca20020_s132-PuttingBase" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>
